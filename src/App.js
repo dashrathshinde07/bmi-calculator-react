@@ -31,7 +31,7 @@ function App() {
     }
   };
 
-  // Reload
+  // Reload button
 
   let reload = () => {
     window.location.reload();
